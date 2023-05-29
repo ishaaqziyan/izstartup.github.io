@@ -1,3 +1,3 @@
 # izstartup.github.io
 
-This Is a saple of a Landing Page
+This Is a sample of a Landing Page.
